@@ -4,3 +4,5 @@ qasim gandu
 afaq
 =NSK=14C824DEA8=BRAND=
 usman sarkar
+=NSK=D4E3F04087=BRAND=
+pranjal 
